@@ -1227,10 +1227,6 @@ function or(l, r)
 }
 
 self.C3_ExpressionFuncs = [
-		() => "Animação dos botoes2",
-		() => "Default",
-		() => "selecionado",
-		() => "Animação dos botoes",
 		() => "Sistema",
 		p => {
 			const v0 = p._GetNode(0).GetVar();
