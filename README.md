@@ -8,6 +8,7 @@ Corte o maximo de árvores em 1 minuto
 
 ## Controles
 PC = Use a barra de espaço
+
 Mobile = Toque na tela
 
 # Jogue Aqui
