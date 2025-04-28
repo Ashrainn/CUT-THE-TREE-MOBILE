@@ -10,5 +10,6 @@ Corte o maximo de árvores em 1 minuto
 PC = Use a barra de espaço
 
 # Jogue Aqui
-PC Version: https://ashrainn.github.io/CUT-THE-TREE/ - Versão: 1.0.0.1
+PC Version: https://ashrainn.github.io/CUT-THE-TREE/ - Versão: 1.0.0.1 
+
 Mobile Version: https://ashrainn.github.io/CUT-THE-TREE-MOBILE/ - Versão: 1.0.0.0
